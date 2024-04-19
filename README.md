@@ -17,3 +17,6 @@ A template repository to create [Bubbletea][bubbletea] apps.
 [lipgloss]: https://github.com/charmbracelet/lipgloss
 [goreleaser]: https://goreleaser.com
 [lint]: https://golangci-lint.run
+
+## Build
+`go build` after cloning and CDing in the repo.
